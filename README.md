@@ -25,4 +25,4 @@
 ***
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,angular,nodejs,express,mongodb,postman,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,angular,nodejs,express,mongodb,postman,vercel,github,git)](https://skillicons.dev)
