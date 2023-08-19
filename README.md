@@ -5,7 +5,7 @@
 ***
 <a align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farbek1503&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> <a align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farbek1503&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
 ***
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farbek1503&theme=tokyo-night&hide_border=false&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=farbek1503&theme=tokyo-night&hide_border=true&area=true" />
 
 ***
 <div align="center">
