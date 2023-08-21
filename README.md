@@ -35,6 +35,11 @@
         6. <a href="https://pexels-clone-bek.vercel.app/">Pexels Clone</a>
       </td>
     </tr>
+    <tr>
+      <td>
+        7. <a href="https://ngx-codemirror-bek.vercel.app/">Code Editor</a>
+      </td>
+    </tr>
   </table>
 </div>
 
