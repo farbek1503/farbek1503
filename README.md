@@ -1,9 +1,10 @@
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=30&pause=1000&color=326BFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Bekzod" />
   </p>
+<!-- -git-masterrstaa-rickstaa -->
 
 ***
-<a align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farbek1503&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> <a align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farbek1503&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
+<a align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farbek1503&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> <a align="right"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=farbek1503&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
 ***
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=farbek1503&theme=tokyo-night&hide_border=true&area=true" />
 
