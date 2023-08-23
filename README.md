@@ -47,7 +47,7 @@
 ***
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,angular,nodejs,express,mongodb,postman,vercel,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,angular,nodejs,express,mongodb,postman,vercel,github,git,bots)](https://skillicons.dev)
 
 <p align="right">
   <a href="https://facebook.com/Farxodav.Bekzod"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
