@@ -5,7 +5,7 @@
 
 ***
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farbek1503&theme=tokyonight&hide_border=true" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farbek1503&theme=tokyonight&hide_border=true" />
   &nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=farbek1503&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
