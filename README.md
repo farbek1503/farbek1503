@@ -12,35 +12,81 @@
 <div align="center">
   <h3>Projects 📂</h3>
   <table>
-    <tr>
-      <td>
-        1. <a href="https://card-bek.vercel.app/">Card App</a>
-      </td>
-      <td>
-        2. <a href="https://youtube-bek.vercel.app/">YouTube Clone</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        3. <a href="https://ng-translate.vercel.app/">Translator</a>
-      </td>
-      <td>
-        4. <a href="https://weather-app-bek.vercel.app/">Weather App</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        5. <a href="https://questions-app-bek.vercel.app/">Questions App</a>
-      </td>
-      <td>
-        6. <a href="https://pexels-clone-bek.vercel.app/">Pexels Clone</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        7. <a href="https://ngx-codemirror-bek.vercel.app/">Code Editor</a>
-      </td>
-    </tr>
+     <thead>
+      <tr>
+        <th>№</th>
+        <th>Preview 🔗</th>
+        <th>Github Repo :octocat:</th>
+      </tr>
+    </thead>
+    <tbody align="center">
+      <tr>
+        <td>
+          1
+        </td>
+        <td>
+          <a href="https://card-bek.vercel.app">Card App</a>
+        </td>
+        <td>
+          <a href="https://github.com/farbek1503/angular-nodejs-app">Card App</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          2
+        </td>
+        <td>
+          <a href="https://youtube-bek.vercel.app">YouTube Clone</a>
+        </td>
+        <td>
+          <a href="https://github.com/farbek1503/youtube-clone">YouTube Clone</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          3
+        </td>
+        <td>
+          <a href="https://ng-translate.vercel.app">Translator</a>
+        </td>
+        <td>
+          <a href="https://github.com/farbek1503/ng-translate">Translator</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          4
+        </td>
+        <td>
+          <a href="https://ngx-codemirror-bek.vercel.app">Code Editor</a>
+        </td>
+        <td>
+          <a href="https://github.com/farbek1503/ngx-codemirror">Code Editor</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          5
+        </td>
+        <td>
+          <a href="https://questions-app-bek.vercel.app">Questions App</a>
+        </td>
+        <td>
+          <a href="https://github.com/farbek1503/questions-app">Questions App</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          6
+        </td>
+        <td>
+          <a href="https://pexels-clone-bek.vercel.app">Pexels Clone</a>
+        </td>
+        <td>
+          <a href="https://github.com/farbek1503/pexels-clone">Pexels Clone</a>
+        </td>
+      </tr>
+    </tbody>
   </table>
 </div>
 
