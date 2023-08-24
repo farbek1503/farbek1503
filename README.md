@@ -4,8 +4,13 @@
 <!-- -git-masterrstaa-rickstaa -->
 
 ***
-<a align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farbek1503&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> <a align="right"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=farbek1503&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farbek1503&theme=tokyonight&hide_border=true" alt="Anurag's github stats" />
+  &nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=farbek1503&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
+<br />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=farbek1503&theme=tokyo-night&hide_border=true&area=true" />
 
 ***
