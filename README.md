@@ -10,11 +10,6 @@
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=farbek1503&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
-<br />
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farbek1503&theme=tokyonight" />
-</div>
-
 ***
 <div align="center">
   <h3>Projects 📂</h3>
