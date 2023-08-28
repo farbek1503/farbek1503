@@ -11,7 +11,9 @@
 </div>
 
 <br />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farbek1503&theme=tokyo-night&hide_border=true&area=true" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farbek1503&theme=tokyonight" />
+</div>
 
 ***
 <div align="center">
