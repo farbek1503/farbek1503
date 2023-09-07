@@ -60,7 +60,7 @@
           <a href="https://ng-translate.vercel.app">Translator</a>
         </td>
         <td>
-          <a href="https://github.com/farbek1503/ng-translate">Translator</a>
+          <a href="https://github.com/farbek1503/ng-translate">Translator🔒</a>
         </td>
       </tr>
       <tr>
