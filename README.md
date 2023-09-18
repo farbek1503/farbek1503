@@ -25,7 +25,7 @@
      <thead>
       <tr>
         <th>№</th>
-        <th>Preview 🔗</th>
+        <th>Preview 🌐</th>
         <th>Github Repo :octocat:</th>
       </tr>
     </thead>
