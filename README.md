@@ -96,6 +96,17 @@
           <a href="https://github.com/farbek1503/pexels-clone">Pexels Clone</a>
         </td>
       </tr>
+      <tr>
+        <td>
+          7
+        </td>
+        <td>
+          <a href="https://t.me/pexels_bek_bot">Pexels Bot</a>
+        </td>
+        <td>
+          <a href="https://github.com/farbek1503/pexels-bot">Pexels Bot</a>
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
