@@ -3,20 +3,19 @@
   </p>
 <!-- -git-masterrstaa-rickstaa -->
 
-***
 <!-- dark -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farbek1503&theme=tokyonight&hide_border=true#gh-dark-mode-only" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=farbek1503&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact#gh-dark-mode-only" /></a>
-</div>
+</div> -->
 
 <!-- light -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farbek1503&theme=light&hide_border=true#gh-light-mode-only" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=farbek1503&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact#gh-light-mode-only" /></a>
-</div>
+</div> -->
 
 ***
 <div align="center">
