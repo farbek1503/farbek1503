@@ -56,17 +56,6 @@
           3
         </td>
         <td>
-          <a href="https://ng-translate.vercel.app">Translator</a>
-        </td>
-        <td>
-          <a href="https://github.com/farbek1503/ng-translate">Translator🔒</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          4
-        </td>
-        <td>
           <a href="https://ngx-codemirror-bek.vercel.app">Code Editor</a>
         </td>
         <td>
@@ -75,7 +64,7 @@
       </tr>
       <tr>
         <td>
-          5
+          4
         </td>
         <td>
           <a href="https://questions-app-bek.vercel.app">Questions App</a>
@@ -86,7 +75,7 @@
       </tr>
       <tr>
         <td>
-          6
+          5
         </td>
         <td>
           <a href="https://pexels-clone-bek.vercel.app">Pexels Clone</a>
