@@ -37,7 +37,7 @@
           <a href="https://card-bek.vercel.app">Card App</a>
         </td>
         <td>
-          <a href="https://github.com/farbek1503/angular-nodejs-app">Card App</a>
+          <a href="https://github.com/farbek1503/card-app">Card App</a>
         </td>
       </tr>
       <tr>
