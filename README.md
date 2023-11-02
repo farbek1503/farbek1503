@@ -115,4 +115,5 @@
 <br />
 <p align="right">
   <a href="https://t.me/bekk1_me"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bekzod-farxodov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
 </p>
