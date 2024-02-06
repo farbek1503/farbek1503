@@ -114,6 +114,6 @@
 
 <br />
 <p align="right">
-  <a href="https://instagram.com/bekk1_i503"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/farbek1503"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/bekzod-farxodov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
 </p>
